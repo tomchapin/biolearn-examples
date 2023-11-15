@@ -23,7 +23,7 @@ For plotting epigenetic clocks on geo:
 cd 00_epigenetic_biomarkers
 python plot_epigenetic_clocks_on_geo.py
 open outputs/epigenetic_clocks_on_geo.png
-``
+```
 
 For generating composite biomarkers with nhanes:
 
@@ -32,7 +32,7 @@ cd 01_composite_biomarkers
 python plot_nhanes.py
 open phenotypic_age_vs_chronological_age.png
 open survival_by_phenotypic_age.png
-``
+```
 
 ## Jupyter Notebooks
 
